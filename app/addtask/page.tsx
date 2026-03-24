@@ -155,8 +155,8 @@ export default function Page() {
             <Image
               src={imagePreview}
               alt="preview"
-              width={200}
-              height={200}
+              width={150}
+              height={150}
               className="rounded"
             />
           )}
